@@ -1,0 +1,13 @@
+.navbar {
+  font-size: large;
+  background-color: orangered;
+  margin: 0;
+  padding: 10px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar a {
+  text-decoration: none;
+}
